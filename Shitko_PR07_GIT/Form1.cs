@@ -23,7 +23,8 @@ namespace Shitko_PR07_GIT
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Form2cs Form2 = new Form2cs();
+            Form2.Show();
         }
     }
 }
