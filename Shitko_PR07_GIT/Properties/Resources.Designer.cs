@@ -83,10 +83,31 @@ namespace Shitko_PR07_GIT.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap f37ead51cc087c8ccc42ff33fca111e5d7c9eade47e290d972ce5c311dd28b91 {
+            get {
+                object obj = ResourceManager.GetObject("f37ead51cc087c8ccc42ff33fca111e5d7c9eade47e290d972ce5c311dd28b91", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pngtree_a_bold_and_modern_black_bird_logo_design_against_background_symbolizing_png_image_14848366 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-a-bold-and-modern-black-bird-logo-design-against-background-symbolizing-p" +
                         "ng-image_14848366", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_a_bold_and_modern_black_bird_logo_design_against_background_symbolizing_png_image_148483661 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-a-bold-and-modern-black-bird-logo-design-against-background-symbolizing-p" +
+                        "ng-image_148483661", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

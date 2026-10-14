@@ -118,19 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="f37ead51cc087c8ccc42ff33fca111e5d7c9eade47e290d972ce5c311dd28b91" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f37ead51cc087c8ccc42ff33fca111e5d7c9eade47e290d972ce5c311dd28b91.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="e9d34732-07c3-4892-d572-08d9dcf09ad7_256_256" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\e9d34732-07c3-4892-d572-08d9dcf09ad7_256_256.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngtree-logo-illustration-privacy-graphics-vector-png-image_12191017" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-logo-illustration-privacy-graphics-vector-png-image_12191017.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngtree-logo-illustration-privacy-graphics-vector-png-image_40222684" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-logo-illustration-privacy-graphics-vector-png-image_40222684.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="7227829" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\7227829.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pngtree-logo-illustration-privacy-graphics-vector-png-image_40222684" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-logo-illustration-privacy-graphics-vector-png-image_40222684.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pngtree-a-bold-and-modern-black-bird-logo-design-against-background-symbolizing-png-image_14848366" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-a-bold-and-modern-black-bird-logo-design-against-background-symbolizing-png-image_14848366.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-logo-illustration-privacy-graphics-vector-png-image_12191017" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-logo-illustration-privacy-graphics-vector-png-image_12191017.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-a-bold-and-modern-black-bird-logo-design-against-background-symbolizing-png-image_148483661" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-a-bold-and-modern-black-bird-logo-design-against-background-symbolizing-png-image_148483661.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
